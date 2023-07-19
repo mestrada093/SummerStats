@@ -6,7 +6,7 @@ output: github_document
 
 ## Monique
 ## Cal State Fullerton
-### Dr. Rebeca Mirella-Rios
+## Dr. Rebeca Mirella-Rios
 
 ***
 
